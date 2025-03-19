@@ -1,6 +1,5 @@
 # Lista-2
 Ponderada semana 7
-# Instruções
 
 # Questões objetivas
 
